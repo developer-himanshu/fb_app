@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361543220427",
+    "project_id": "authenticationapp-4dd0e",
+    "storage_bucket": "authenticationapp-4dd0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361543220427:android:66c94f3a4eb2e533f0af4e",
+        "android_client_info": {
+          "package_name": "com.example.fbapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGuv-IJYhF2QvcEocZxZ0ZPsZOLOUfYVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
